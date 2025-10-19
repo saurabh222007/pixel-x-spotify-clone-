@@ -1,0 +1,5 @@
+{
+  "name": "Sum Music",
+  "description": "A Spotify clone with a 2D matte, cartoonish, and pixelated UI. It features an equalizer, a dynamic pixelated background, and responsive controls, all with a retro video game aesthetic.",
+  "requestFramePermissions": []
+}
